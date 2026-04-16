@@ -7,3 +7,4 @@ FiSi-Ausbildung + AWS + Linux + Terraform + Docker.
 ## Status
 Tag 1 - Setup abgeschlossen
 Tag 2 - Begonnen mit Bash
+Tag 3 - Erweitertes Backup Script
