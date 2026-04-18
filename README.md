@@ -8,4 +8,4 @@ FiSi-Ausbildung + AWS + Linux + Terraform + Docker.
 Tag 1 - Setup abgeschlossen
 Tag 2 - Begonnen mit Bash
 Tag 3 - Erweitertes Backup Script
-SSH Test
+Tag 3 - Bash Scripting Vertiefung & SSH eingerichtet 
