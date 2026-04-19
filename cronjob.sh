@@ -1,2 +1,1 @@
-#!/bin/bash# Hauptscritp
-# Feature Branch Kommentar
+echo 'Ich bin main'
