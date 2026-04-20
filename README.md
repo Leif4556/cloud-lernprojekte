@@ -10,3 +10,6 @@ Tag 2 - Begonnen mit Bash
 Tag 3 - Erweitertes Backup Script
 Tag 3 - Bash Scripting Vertiefung & SSH eingerichtet 
 Tag 4 - Netzwerk basics erlernt
+Tag 5 - Git Vertiefung – Branching, Merge & Rebase
+Tag 6 - Bash Vertiefung – if/else & Cronjobs
+Tag 7 - Wiederholung der vorherigen Themen und Start in AWS
