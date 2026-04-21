@@ -13,3 +13,4 @@ Tag 4 - Netzwerk basics erlernt
 Tag 5 - Git Vertiefung – Branching, Merge & Rebase
 Tag 6 - Bash Vertiefung – if/else & Cronjobs
 Tag 7 - Wiederholung der vorherigen Themen und Start in AWS
+Tag 8 - AWS Setup und EC2 Instanz angelegt
