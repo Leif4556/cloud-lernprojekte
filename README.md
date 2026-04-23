@@ -14,3 +14,4 @@ Tag 5 - Git Vertiefung – Branching, Merge & Rebase
 Tag 6 - Bash Vertiefung – if/else & Cronjobs
 Tag 7 - Wiederholung der vorherigen Themen und Start in AWS
 Tag 8 - AWS Setup und EC2 Instanz angelegt
+Tag 9 - AWS CLI eingerichet, um vom Terminal aus AWS zu nutzen
